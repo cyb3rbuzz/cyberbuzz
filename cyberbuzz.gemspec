@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
-  spec.name                    = "portfolyou-jekyll-theme"
+  spec.name                    = "cyberbuzz"
   spec.version                 = "2.3.0"
   spec.authors                 = ["Youssef Raafat"]
-  spec.email                   = ["YoussefRaafatNasry@gmail.com"]
+  spec.email                   = ["durgeshkumartiwari007@gmail.com"]
 
-  spec.summary                 = "A beautiful portfolio Jekyll theme."
-  spec.homepage                = "https://github.com/YoussefRaafatNasry/portfolYOU"
+  spec.summary                 = "cyberbuzz."
+  spec.homepage                = "https://cyb3rbuzz.github.io/cyberbuzz"
   spec.license                 = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
